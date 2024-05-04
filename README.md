@@ -78,14 +78,9 @@ SOL project involves [brief description].
 ### 2. POL
 
 **Description:**
-POL project aims to [brief description].
 
-### 3. RedBOX
 
-**Description:**
-RedBOX project focuses on [brief description].
-
-### 4. DPC
+### 3. DPC
 
 **Description:**
 DPC project involves [brief description].
